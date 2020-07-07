@@ -1,0 +1,20 @@
+{
+  "name": "bot_vk_wall_telegram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "easyvk": "^2.6.1",
+    "proxy-agent": "^3.1.1",
+    "socks-proxy-agent": "^5.0.0",
+    "socks5-client": "^1.2.8",
+    "socks5-https-client": "^1.2.1",
+    "telegraf": "^3.37.0"
+  }
+}
